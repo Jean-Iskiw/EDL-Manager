@@ -1,4 +1,4 @@
-from Pyside2 import QtWidgets, QtCore
+from PySide2 import QtWidgets, QtCore
 from view import MainWindow
 from qmodel import QModel
 from table_model import TableModel
