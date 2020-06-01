@@ -1,4 +1,4 @@
-from Pyside2 import QtCore
+from PySide2 import QtCore
 
 class QModel(QtCore.QAbstractTableModel):
 
